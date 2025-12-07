@@ -1,0 +1,5 @@
+{
+  "group_id": "group_id",
+  "allow_create_shifts": true,
+  "allow_changing_shift_rate": false
+}
